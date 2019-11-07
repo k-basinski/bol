@@ -10,6 +10,11 @@ Gdański Uniwersytet Medyczny
 
 krzysztof (dot) basinski (at) gumed (dot) edu (dot) pl
 
+## Na następne zajęcia
+
+Damasio, A., & Carvalho, G. B. (2013). The nature of feelings: Evolutionary and neurobiological origins. Nature Reviews Neuroscience, 14(2), 143–152. https://doi.org/10.1038/nrn3403 [link](https://www.researchgate.net/profile/Gil_Carvalho/publication/234161523_OPINION_The_nature_of_feelings_evolutionary_and_neurobiological_origins/links/569581c508ae820ff074c699/OPINION-The-nature-of-feelings-evolutionary-and-neurobiological-origins.pdf)
+
+
 ## Literatura
 
 - Damasio, A., & Carvalho, G. B. (2013). The nature of feelings: Evolutionary and neurobiological origins. Nature Reviews Neuroscience, 14(2), 143–152. https://doi.org/10.1038/nrn3403 [link](https://www.researchgate.net/profile/Gil_Carvalho/publication/234161523_OPINION_The_nature_of_feelings_evolutionary_and_neurobiological_origins/links/569581c508ae820ff074c699/OPINION-The-nature-of-feelings-evolutionary-and-neurobiological-origins.pdf)
