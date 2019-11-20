@@ -155,11 +155,11 @@ Nieprzyjemne doznanie sensoryczne i emocjonalne, powiązane z faktycznym lub pot
 
 ### Teoria bramkowania (Melzack, Wall)
 
-![Gate Open](img/gate_open.png)
+![Gate Open](img/01_gate_open.png)
 
 ### Teoria bramkowania (Melzack, Wall)
 
-![Gate closed](img/gate_closed.png)
+![Gate closed](img/01_gate_closed.png)
 
 ### Teoria bramkowania (Melzack, Wall)
 
@@ -175,25 +175,25 @@ Nieprzyjemne doznanie sensoryczne i emocjonalne, powiązane z faktycznym lub pot
 
 ### Transmisja informacji bólowej
 
-![Pathway](img/pathway.jpg)
+![Pathway](img/01_pathway.jpg)
 
 ### Narzędzia oceny bólu
 
 ### VAS (Visual Analog Scale)
 
-![VAS](img/vas.jpg)
+![VAS](img/01_vas.jpg)
 
 ### NRS (Numerical Rating Scale)
 
-![NRS](img/nrs.png)
+![NRS](img/01_nrs.png)
 
 ### FACES
 
-![FACES](img/faces_pl.png)
+![FACES](img/01_faces_pl.png)
 
 ### FACES
 
-![FACES](img/faces_faces.png)
+![FACES](img/01_faces_faces.png)
 
 ### Obserwacyjna skala FLACC
 
@@ -206,12 +206,12 @@ Nieprzyjemne doznanie sensoryczne i emocjonalne, powiązane z faktycznym lub pot
 
 ### BPI
 
-![BPI](img/bpi_1.png)
+![BPI](img/01_bpi_1.png)
 
 ### BPI
 
-![BPI](img/bpi_2.png)
+![BPI](img/01_bpi_2.png)
 
 ### BPI
 
-![BPI](img/bpi_3.png)
+![BPI](img/01_bpi_3.png)
