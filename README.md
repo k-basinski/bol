@@ -27,4 +27,4 @@ Damasio, A., & Carvalho, G. B. (2013). The nature of feelings: Evolutionary and 
 ## Materiały
 
 - [01 intro](01_intro.html)
-- [02 homeostaza](02_homeostaza.html)
+- [02 pp](02_pp.html)
