@@ -12,7 +12,7 @@ krzysztof (dot) basinski (at) gumed (dot) edu (dot) pl
 
 ### Kolokwium 2
 
-...odędzie się 9.01.2020 o 9.30 w sali B1_2.06!
+...odędzie się 9.01.2020 o 9.30 w T2!
 
 Zajęcia 16.01.2010 zaczną się o 8:45 w T202!
 
