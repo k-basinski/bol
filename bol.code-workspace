@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../bmpp"
+		},
+		{
+			"path": "../eim"
+		}
+	],
+	"settings": {}
+}

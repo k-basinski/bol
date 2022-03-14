@@ -1,5 +1,6 @@
 #!/bin/zsh
 
-pandoc -t revealjs -s 01_intro.md -o 01_intro.html -i
-pandoc -t revealjs -s 02_pp.md -o 02_pp.html -i --mathjax
-pandoc -t revealjs -s 03_homeostaza.md -o 03_homeostaza.html -i
+marp 01.md -o 01.html
+marp 02.md -o 02.html
+marp 03.md -o 03.html
+marp 04.md -o 04.html
